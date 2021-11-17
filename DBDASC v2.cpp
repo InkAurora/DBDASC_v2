@@ -320,7 +320,7 @@ int RedPart(BMP_D bmp, double rad) {
 int main(int argc, char **argv) {
   BMP_D bmp;
 
-  cout << "Dead by Daylight Auto Skill Check v0.2" << endl;
+  cout << "Dead by Daylight Auto Skill Check v1.1" << endl;
   cout << "https://github.com/InkAurora/DBDASC_v2" << endl;
   if (argc > 1) {
     radOffset = stod(string(argv[argc - 1]));
