@@ -19,12 +19,6 @@ int bmpSize, bmpHalfSize;
 
 
 
-typedef struct {
-  int b;
-  int g;
-  int r;
-} PDATA;
-
 typedef struct BMP_D {
   HDC hdc, hdcTemp;
   BITMAPINFO bitmapInfo;
