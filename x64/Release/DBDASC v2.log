@@ -1,0 +1,12 @@
+﻿  DBDASC v2.cpp
+D:\GitHub\C++\DBDASC_v2\DBDASC v2.cpp(99,33): warning C4244: 'initializing': conversion from 'std::streamoff' to 'UINT', possible loss of data
+D:\GitHub\C++\DBDASC_v2\DBDASC v2.cpp(102,33): warning C4244: 'initializing': conversion from 'std::streamoff' to 'UINT', possible loss of data
+D:\GitHub\C++\DBDASC_v2\DBDASC v2.cpp(106,30): warning C4244: 'initializing': conversion from 'std::streamoff' to 'UINT', possible loss of data
+D:\GitHub\C++\DBDASC_v2\DBDASC v2.cpp(130,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\GitHub\C++\DBDASC_v2\DBDASC v2.cpp(131,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 160 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DBDASC v2.vcxproj -> D:\GitHub\C++\DBDASC_v2\x64\Release\DBDASC v2.exe

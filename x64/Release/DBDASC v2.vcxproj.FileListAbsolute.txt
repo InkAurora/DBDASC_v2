@@ -1,0 +1,2 @@
+C:\Users\marth\GitHub\DBDASC_v2\x64\Release\DBDASC v2.exe
+D:\GitHub\C++\DBDASC_v2\x64\Release\DBDASC v2.exe
