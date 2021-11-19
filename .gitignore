@@ -2,6 +2,6 @@
 .vs/DBDASC v2/v16/.suo
 *.ipch
 
-x64
+x64/
 
-.vscode
+.vscode/

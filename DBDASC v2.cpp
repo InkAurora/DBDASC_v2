@@ -121,7 +121,7 @@ public:
 
 private:
   void GetCoords(double rad) {
-    x = round(cos(rad) * radius + bmpHalfSize );
+    x = round(cos(rad) * radius + bmpHalfSize);
     y = round(sin(rad) * radius + bmpHalfSize);
 
     return;
@@ -328,11 +328,11 @@ int main(int argc, char **argv) {
   } else radOffset = 0.12;
   cout << "============================================================================" << endl;
 
-  while (1) {
-    string path(argv[0]);
-    path = path.substr(0, path.find_last_of("\\/"));
-    path += "\\m5btn.bmp";
+  string path(argv[0]);
+  path = path.substr(0, path.find_last_of("\\/"));
+  path += "\\m5btn.bmp";
 
+  while (1) {
     int success = ImageSearch(xS, yS, 200, 100, -200, -100, path, 20);
     xS += 15;
     yS += 15;

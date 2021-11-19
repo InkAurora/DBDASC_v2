@@ -1,3 +1,0 @@
-D:\GitHub\DBDASC_v2\x64\Debug\DBDASC v2.exe
-D:\GitHub\DBDASC_v2\x64\Debug\DBDASC v2.pdb
-D:\GitHub\C++\DBDASC_v2\x64\Debug\DBDASC v2.exe
